@@ -1,2 +1,2 @@
 # youtube-tensorflow-mnist
-Código para red neuronal en python+tensorflow y set de datos MNIST
+Código para rede neural em python+tensorflow e conjunto de dados MNIST
